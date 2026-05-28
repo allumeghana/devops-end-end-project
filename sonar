@@ -1,0 +1,3 @@
+sonar.projectKey=flask-todo-app
+sonar.projectName=flask-todo-app
+sonar.sources=.
